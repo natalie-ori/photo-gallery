@@ -54,14 +54,14 @@ section{
 
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 830px){
 article{
   display: flex;
   flex-direction: column;
 }
 img {
   height: auto;
-  width: 700px;
+  width: 800px;
   box-shadow: 10px 10px 5px grey;
   padding: 15px;
 }
