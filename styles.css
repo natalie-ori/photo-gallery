@@ -51,17 +51,19 @@ body{
 
 section{
   margin-right: 0px;
+ display: flex;
+ justify-content: center;
 
 }
 
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1100px){
 article{
   display: flex;
   flex-direction: column;
 }
 img {
   height: auto;
-  width: 1000px;
+  width: 1100px;
   box-shadow: 10px 10px 5px grey;
   padding: 15px;
 }
